@@ -1,0 +1,30 @@
+10 não é primo
+64 não é primo
+95 não é primo
+92 não é primo
+96 não é primo
+16 não é primo
+47 é primo
+21 não é primo
+50 não é primo
+74 não é primo
+78 não é primo
+29 é primo
+23 é primo
+81 não é primo
+24 não é primo
+92 não é primo
+72 não é primo
+18 não é primo
+6 não é primo
+75 não é primo
+69 não é primo
+82 não é primo
+37 é primo
+63 não é primo
+26 não é primo
+43 é primo
+80 não é primo
+4 não é primo
+2 é primo
+20 não é primo
